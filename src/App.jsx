@@ -89,7 +89,7 @@ export const App = () => {
 					}}
 					style={{ width: '60%', height: '100%' }} />
 				
-				<pre>{output ? output : '...'}</pre>
+				<pre>{output ? output : '|'}</pre>
 			</div>
 		</>
 	);
